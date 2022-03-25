@@ -1,5 +1,5 @@
 {
-  "name": "lesson-4",
+  "name": "kktr-moja-paka",
   "version": "1.0.0",
   "description": "piąteczek, piątunio!",
   "main": "index.js",
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/kktr/lesson-4#readme",
   "devDependencies": {
     "@types/node": "^17.0.23"
+  },
+  "dependencies": {
+    "kktr-moja-paka": "^1.0.0"
   }
 }
