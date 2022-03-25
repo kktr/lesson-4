@@ -1,0 +1,22 @@
+{
+  "name": "lesson-4",
+  "version": "1.0.0",
+  "description": "piąteczek, piątunio!",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kktr/lesson-4.git"
+  },
+  "author": "kktr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kktr/lesson-4/issues"
+  },
+  "homepage": "https://github.com/kktr/lesson-4#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.23"
+  }
+}
